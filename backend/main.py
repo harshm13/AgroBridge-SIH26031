@@ -10,7 +10,7 @@ Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
     title="AgroBridge API",
-    description="Backend for the SIH26132 Market Linkages Platform"
+    description="Backend for the SIH26031 Market Linkages Platform"
 )
 
 # Configure CORS so the React frontend can communicate with the backend
