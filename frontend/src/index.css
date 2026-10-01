@@ -2,11 +2,6 @@
 
 @import "tailwindcss";
 
-/* =========================================================
-   AGROBRIDGE DESIGN SYSTEM
-   SIH26132 — Market Linkage & Price Discovery
-   ========================================================= */
-
 :root {
   --ab-green-950: #123524;
   --ab-green-900: #174a2c;
