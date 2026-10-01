@@ -9,7 +9,7 @@ designed to help farmers make better selling decisions by bringing
 **market prices, demand, buyer opportunities, crop quality, logistics,
 and AI-driven recommendations** into one simple platform.
 
-Built for **Smart India Hackathon 2026 --- SIH26132**.
+Built for **Smart India Hackathon 2026 --- SIH26033**.
 
 ------------------------------------------------------------------------
 
