@@ -35,7 +35,7 @@ The platform is designed around one central question:
 
 AgroBridge is built for **Smart India Hackathon 2026**.
 
-> **Problem Statement:** SIH26033  
+> **Problem Statement:** SIH26031  
 > **Theme:** Agriculture, FoodTech & Rural Development
 
 ---
@@ -628,7 +628,7 @@ Potential impact indicators include:
 
 # 🏆 Smart India Hackathon 2026
 
-**Problem Statement:** SIH26033
+**Problem Statement:** SIH26031
 
 **Theme:** Agriculture, FoodTech & Rural Development
 
