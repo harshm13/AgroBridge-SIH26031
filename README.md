@@ -456,8 +456,8 @@ Make sure the following are installed:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/harshm13/AgroBridge-SIH26132.git
-cd AgroBridge-SIH26132
+git clone https://github.com/harshm13/AgroBridge-SIH26031.git
+cd AgroBridge-SIH26031
 ```
 
 ---
